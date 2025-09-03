@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mui/x-charts": "^8.10.2",
+    "axios": "^1.11.0"
+  }
+}
